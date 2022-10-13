@@ -1,0 +1,14 @@
+name = "mgui"
+filename = "mgui-1.16.5-3.3.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "75c2627cbfc1806d71f4e333b9a1293abf3b90b1"
+
+[update]
+[update.curseforge]
+file-id = 3456505
+project-id = 351914

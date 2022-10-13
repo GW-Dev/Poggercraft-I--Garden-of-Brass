@@ -1,0 +1,14 @@
+name = "Slabs to Blocks"
+filename = "SlabsToBlocks-1.0.0.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "e9036e948f34a69c348babcd1f8f7edd82d31b6c"
+
+[update]
+[update.curseforge]
+file-id = 3085237
+project-id = 413834

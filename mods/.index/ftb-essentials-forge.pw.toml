@@ -1,0 +1,14 @@
+name = "FTB Essentials (Forge)"
+filename = "ftb-essentials-1605.1.5-build.32.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "4b57f040a830deb62759cd99bd6fd248c8027bd6"
+
+[update]
+[update.curseforge]
+file-id = 3510643
+project-id = 410811

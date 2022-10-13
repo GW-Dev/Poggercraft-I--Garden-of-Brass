@@ -1,0 +1,54 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": true,
+  "bookData": {
+    "botania:lexicon": {
+      "viewedEntries": [
+        "botania:basics/garden_of_glass"
+      ],
+      "bookmarks": [],
+      "history": [
+        "botania:basics/garden_of_glass"
+      ],
+      "completedManualQuests": []
+    },
+    "bloodmagic:guide": {
+      "viewedEntries": [
+        "bloodmagic:alchemy_table/alchemy_table",
+        "bloodmagic:alchemy_table/potions",
+        "bloodmagic:utility/nyi",
+        "bloodmagic:dungeons/tau_fruit",
+        "bloodmagic:dungeons/lobby",
+        "bloodmagic:rituals/ritual_list/ritual_simple_dungeon",
+        "bloodmagic:dungeons/simple_key",
+        "bloodmagic:rituals/activation_crystals"
+      ],
+      "bookmarks": [],
+      "history": [
+        "bloodmagic:dungeons/lobby",
+        "bloodmagic:rituals/ritual_list/ritual_simple_dungeon",
+        "bloodmagic:rituals/activation_crystals",
+        "bloodmagic:dungeons/tau_fruit",
+        "bloodmagic:dungeons/simple_key",
+        "bloodmagic:utility/nyi",
+        "bloodmagic:alchemy_table/potions",
+        "bloodmagic:alchemy_table/alchemy_table"
+      ],
+      "completedManualQuests": []
+    },
+    "psi:encyclopaedia_psionica": {
+      "viewedEntries": [
+        "psi:basics/cad_assembler",
+        "psi:basics/vector_primer",
+        "psi:basics/spell_programmer"
+      ],
+      "bookmarks": [],
+      "history": [
+        "psi:basics/spell_programmer",
+        "psi:basics/vector_primer",
+        "psi:basics/cad_assembler"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}

@@ -1,0 +1,103 @@
+To refresh this file, delete it and run /reload command again! Last updated: Oct 9, 2022 5:28:16 PM
+
+#forge:lubricant
+- pneumaticcraft:lubricant
+
+#forge:crude_oil
+- pneumaticcraft:oil
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- create:flowing_honey
+- create:honey
+- create:flowing_chocolate
+- create:chocolate
+- manaliquidizer:mana_fluid
+- manaliquidizer:mana_fluid_flowing
+- createaddition:flowing_seed_oil
+- createaddition:seed_oil
+
+#forge:biodiesel
+- pneumaticcraft:biodiesel
+
+#forge:redstone
+
+#forge:milk
+- minecraft:milk?
+- minecraft:flowing_milk?
+
+#forge:plantoil
+- pneumaticcraft:vegetable_oil
+- createaddition:flowing_seed_oil
+- createaddition:seed_oil
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+
+#forge:ethanol
+- pneumaticcraft:ethanol
+
+#forge:chocolate
+- create:flowing_chocolate
+- create:chocolate
+
+#forge:potion
+- cofh_core:potion
+
+#forge:gasoline
+- pneumaticcraft:gasoline
+
+#forge:ender
+
+#forge:experience
+- pneumaticcraft:memory_essence
+- cofh_core:experience
+
+#forge:life
+- bloodmagic:life_essence_fluid
+- bloodmagic:life_essence_fluid_flowing
+
+#forge:glowstone
+
+#forge:tea
+- create:flowing_tea
+- create:tea
+
+#forge:diesel
+- pneumaticcraft:diesel
+
+#manaliquidizer:mana_fluid
+- manaliquidizer:mana_fluid
+- manaliquidizer:mana_fluid_flowing
+
+#pneumaticcraft:yeast_culture
+- pneumaticcraft:yeast_culture
+
+#pneumaticcraft:plastic
+- pneumaticcraft:plastic
+
+#pneumaticcraft:etching_acid
+- pneumaticcraft:etching_acid
+
+#forge:latex
+
+#forge:kerosene
+- pneumaticcraft:kerosene
+
+#decorative_blocks:thatch
+- decorative_blocks:thatch
+- decorative_blocks:flowing_thatch
+
+#forge:honey
+- cofh_core:honey
+- create:flowing_honey
+- create:honey
+
+#forge:creosote
+
+#appliedenergistics2:blacklisted/fluid_annihilation_plane
+
+#forge:lpg
+- pneumaticcraft:lpg

@@ -1,0 +1,14 @@
+name = "Lootr (Forge)"
+filename = "lootr-1.16.5-0.1.14.45.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "462315fb28e7bfc9afb9dcc667e73362b0c9f2f8"
+
+[update]
+[update.curseforge]
+file-id = 3990062
+project-id = 361276

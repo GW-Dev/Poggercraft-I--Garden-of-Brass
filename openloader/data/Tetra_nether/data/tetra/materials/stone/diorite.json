@@ -1,0 +1,28 @@
+{
+    "key": "stone",
+    "category": "stone",
+    "primary": "4",
+    "secondary": "3",
+    "tertiary": "0",
+    "durability": "131",
+    "integrityCost": "1",
+    "integrityGain": "4",
+    "magicCapacity": "90",
+    "toolLevel": "2",
+    "toolEfficiency": "4",
+    "tints": {
+        "glyph": "diorite_glyph",
+        "texture": "diorite"
+    },
+    "textures": [
+        "grainy",
+        "crude",
+        "default"
+    ],
+    "material": {
+        "item": "minecraft:stone"
+    },
+    "requiredTools": {
+        "hammer": 1
+    }
+}

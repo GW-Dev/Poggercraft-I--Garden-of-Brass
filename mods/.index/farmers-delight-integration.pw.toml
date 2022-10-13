@@ -1,0 +1,14 @@
+name = "Farmer's Delight Integration"
+filename = "farmersdelightintegration-1.16.5-1.0.3.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "0bcab8b533f270651d29ab5cfb39a1a4654e4bbb"
+
+[update]
+[update.curseforge]
+file-id = 3222746
+project-id = 447816

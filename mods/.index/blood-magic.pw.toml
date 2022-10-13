@@ -1,0 +1,14 @@
+name = "Blood Magic "
+filename = "BloodMagic-1.16.4-3.1.13-39.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "1a5689d41c2668a627b114ff55bab6ae329e609e"
+
+[update]
+[update.curseforge]
+file-id = 3870899
+project-id = 224791

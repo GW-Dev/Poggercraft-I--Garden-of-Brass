@@ -1,0 +1,14 @@
+name = "Just Enough Professions (JEP)"
+filename = "JustEnoughProfessions-1.16.5-1.2.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "afab2fc6909324b63aeabdc5d6d8452aa5d0f082"
+
+[update]
+[update.curseforge]
+file-id = 3478185
+project-id = 417645

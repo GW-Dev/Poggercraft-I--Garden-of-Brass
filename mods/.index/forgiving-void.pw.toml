@@ -1,0 +1,14 @@
+name = "Forgiving Void"
+filename = "ForgivingVoid_1.16.5-5.2.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "b3b7db20ce9d025abe1d5cbac0761ca0b0e398fe"
+
+[update]
+[update.curseforge]
+file-id = 3330716
+project-id = 271009

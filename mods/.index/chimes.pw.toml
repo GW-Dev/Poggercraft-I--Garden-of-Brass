@@ -1,0 +1,14 @@
+name = "Chimes"
+filename = "Chimes-1.0.0-1.16.5.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "a2cc8f992a0636c1cab43322e9f8301913929cb2"
+
+[update]
+[update.curseforge]
+file-id = 3492379
+project-id = 350464
