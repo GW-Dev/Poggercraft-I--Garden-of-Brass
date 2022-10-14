@@ -5,7 +5,7 @@ loggingThrowableTimeout = 20000
 #Range: 0 ~ 3
 needsProbe = 0
 #If true the probe will automatically show extended information if it is in your main hand (so not required to sneak)
-extendedInMain = false
+extendedInMain = true
 #If true there will be a bauble version of the probe if baubles is present
 supportBaubles = true
 #If true there will be a readme note for first-time players

@@ -121,7 +121,10 @@ onEvent('recipes', event => {
 		'create:shadow_steel_casing',
 		'create:refined_radiance_casing',
 		'create:shadow_steel_casing',
-		'botania:terrasteel_block',
+		'create:andesite_casing',
+		'create:brass_casing',
+		'create:andesite_casing',
+		'create:brass_casing',
 		'botania:elementium_block',
 		'botania:manasteel_block'
       ]).superheated()

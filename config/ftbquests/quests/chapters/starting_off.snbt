@@ -1,0 +1,89 @@
+{
+	id: "4209F90033139E8C"
+	group: ""
+	order_index: 0
+	filename: "starting_off"
+	title: "Starting Off"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -7.0d
+			y: -0.5d
+			id: "3F807014210E3E2C"
+			tasks: [{
+				id: "65C5BF1CF70241B2"
+				type: "checkmark"
+				title: " Free Cobblestone"
+			}]
+			rewards: [{
+				id: "25341972FACD6A4E"
+				type: "item"
+				team_reward: true
+				item: "minecraft:cobblestone"
+				count: 64
+			}]
+		}
+		{
+			title: "Akashic Tome"
+			x: -7.0d
+			y: -2.5d
+			id: "16343CE6F044912B"
+			tasks: [{
+				id: "46A2EE4BDAE34DE2"
+				type: "checkmark"
+				title: "Akhashic Tome"
+			}]
+			rewards: [
+				{
+					id: "571F896E80454AF1"
+					type: "item"
+					item: "akashictome:tome"
+				}
+				{
+					id: "7FD553DB20CCA692"
+					type: "item"
+					item: "morphtool:tool"
+				}
+			]
+		}
+		{
+			x: -6.0d
+			y: -1.5d
+			id: "7863CDC75AE37687"
+			tasks: [{
+				id: "29220418B618830D"
+				type: "checkmark"
+				title: "Calculators"
+			}]
+			rewards: [
+				{
+					id: "0D2229629827AA0C"
+					type: "item"
+					item: "jecalculation:item_calculator_craft"
+				}
+				{
+					id: "3A4972950AFDBEAF"
+					type: "item"
+					item: "jecalculation:item_calculator_math"
+				}
+			]
+		}
+		{
+			x: -8.0d
+			y: -1.5d
+			id: "168CE07FE6BF8FB0"
+			tasks: [{
+				id: "2D945492418D85D9"
+				type: "checkmark"
+				title: "Free Wood"
+			}]
+			rewards: [{
+				id: "06BEDE0C632D3177"
+				type: "item"
+				item: "minecraft:oak_log"
+				count: 64
+			}]
+		}
+	]
+}
