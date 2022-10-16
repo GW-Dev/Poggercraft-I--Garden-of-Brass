@@ -43,6 +43,8 @@ onEvent('recipes', event => {
 	event.replaceInput({id: 'bloodmagic:ritual_stone_blank'}, "#forge:obsidian", "create:electron_tube")
 	event.replaceInput({id: 'bloodmagic:altar/slate'}, "#forge:stone", "create:chromatic_compound")
 	event.replaceInput({output: 'createaddition:capacitor'}, "minecraft:redstone_torch", "create:chromatic_compound")
+	event.replaceInput({}, "create:dough", "#forge:bread_dough")
+	event.replaceInput({}, "farmersdelight:wheat_dough", "#forge:bread_dough")
 
 	event.recipes.createMixing('appliedenergistics2:charged_certus_quartz_crystal', [
 		"botania:terrasteel_ingot",
@@ -89,6 +91,12 @@ onEvent('recipes', event => {
 		"minecraft:seagrass",
 		"minecraft:nether_wart",
 		"minecraft:glowstone_dust"
+      ])
+
+	  event.recipes.createMixing('minecraft:phantom_membrane', [
+		"botania:ender_air_bottle",
+		Fluid.of("minecraft:water", 250),
+		"create:andesite_alloy"
       ])
 	
 	event.recipes.createMixing('create:rose_quartz', [
@@ -385,4 +393,7 @@ onEvent('item.tags', event => {
 
 	// Get the #forge:cobblestone tag collection and remove Mossy Cobblestone from it
 	// event.get('forge:cobblestone').remove('minecraft:mossy_cobblestone')
+
+	event.add('forge:bread_dough', 'create:dough')
+	event.add('forge:bread_dough', 'farmersdelight:wheat_dough')
 })
