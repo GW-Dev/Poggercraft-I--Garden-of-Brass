@@ -41,7 +41,7 @@ onEvent('recipes', event => {
 	event.replaceInput({id: 'bloodmagic:altar/magicianbloodorb'}, "#forge:storage_blocks/brass", "create:chromatic_compound")
 	event.replaceInput({id: 'bloodmagic:altar/masterbloodorb'}, "bloodmagic:weakbloodshard", "pneumaticcraft:compressed_iron_block")
 	event.replaceInput({id: 'bloodmagic:ritual_stone_blank'}, "#forge:obsidian", "create:electron_tube")
-	event.replaceInput({id: 'bloodmagic:altar/slate'}, "#forge:stone", "create:chromatic_compound")
+	event.replaceInput({id: 'bloodmagic:altar/slate'}, "#forge:stone", "botania:elementium_boots")
 	event.replaceInput({output: 'createaddition:capacitor'}, "minecraft:redstone_torch", "create:chromatic_compound")
 	event.replaceInput({}, "create:dough", "#forge:bread_dough")
 	event.replaceInput({}, "farmersdelight:wheat_dough", "#forge:bread_dough")
@@ -50,7 +50,7 @@ onEvent('recipes', event => {
 		"botania:terrasteel_ingot",
 		"botania:dragonstone_block",
 		"botania:mana_diamond_block",
-      ]).superheated()
+      ]).heated()
 
 	event.recipes.createMixing('minecraft:ink_sac', [
 		"minecraft:rotten_flesh",
@@ -66,7 +66,7 @@ onEvent('recipes', event => {
 	event.recipes.createMixing(Fluid.of('pneumaticcraft:oil', 500), [
 		"botania:elementium_block",
         Fluid.of("minecraft:water", 1000)
-      ]).superheated().replaceIngredient('appliedenergistics2:charged_certus_quartz_crystal', 'appliedenergistics2:certus_quartz_crystal')
+      ]).superheated()
 
 	event.recipes.createMixing('create:crushed_brass', [
 		"botania:elementium_nugget",
